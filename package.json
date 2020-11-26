@@ -1,0 +1,22 @@
+{
+  "name": "basic-expressapp",
+  "version": "1.0.0",
+  "description": "Basic Express code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhurKholgade/basic-expressapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhurKholgade/basic-expressapp/issues"
+  },
+  "homepage": "https://github.com/MadhurKholgade/basic-expressapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
